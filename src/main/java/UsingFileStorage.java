@@ -4,6 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class UsingFileStorage {
+
     public static void main(String[] args) {
 
         File myFile = new File("MyFile.txt");
